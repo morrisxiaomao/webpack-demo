@@ -19,8 +19,13 @@
   },
   "homepage": "https://github.com/morrisxiaomao/webpack-demo#readme",
   "devDependencies": {
+    "css-loader": "^2.1.1",
+    "csv-loader": "^3.0.2",
+    "file-loader": "^4.0.0",
+    "style-loader": "^0.23.1",
     "webpack": "^4.32.2",
-    "webpack-cli": "^3.3.2"
+    "webpack-cli": "^3.3.2",
+    "xml-loader": "^1.2.1"
   },
   "dependencies": {
     "lodash": "^4.17.11"
